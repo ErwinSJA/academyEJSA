@@ -21,7 +21,7 @@ import com.ejsa.academy.service.interf.CustomerService;
 import lombok.RequiredArgsConstructor;
 
 @RestController
-@RequestMapping("/api/v1/customers/BUGINTENCIONAL")
+@RequestMapping("/api/v1/customers")
 @RequiredArgsConstructor
 public class CustomerController {
 	
