@@ -1,0 +1,19 @@
+[
+{"categoryId":1,"productName":"PC Asus i7, 32GB, 1TB, NVIDIA 4060 12GB","productPrice":6500,"productStatus":1},
+{"categoryId":1,"productName":"PC Gigabyte i5, 16GB, 500MB, RADEON RX 500","productPrice":3800,"productStatus":1},
+{"categoryId":2,"productName":"Laptop HP AMD RYZEN 5, 8GB, 256MB","productPrice":3200,"productStatus":1},
+{"categoryId":2,"productName":"Laptop Lenovo i5, 16GB, 500MB ","productPrice":5100,"productStatus":1},
+{"categoryId":3,"productName":"Monitor Teros 27inch","productPrice":750,"productStatus":1},
+{"categoryId":3,"productName":"Monitor Asus 27inch","productPrice":1200,"productStatus":1},
+{"categoryId":4,"productName":"Teclado HP Membrana","productPrice":100,"productStatus":1},
+{"categoryId":4,"productName":"Teclado Antryz RGB Membrana","productPrice":180,"productStatus":0},
+{"categoryId":4,"productName":"Teclado Ryzen Mecanico","productPrice":480,"productStatus":1},
+{"categoryId":5,"productName":"Mouse Logitech RGB Legend","productPrice":200,"productStatus":1},
+{"categoryId":5,"productName":"Mouse Logitech Vertical Ergonomico","productPrice":350,"productStatus":1},
+{"categoryId":6,"productName":"Tarjeta Grafica MSI NVIDIA 3060 12GB","productPrice":1400,"productStatus":1},
+{"categoryId":6,"productName":"Tarjeta Grafica Asus Dual NVIDIA 4060 8GB","productPrice":1600,"productStatus":1},
+{"categoryId":7,"productName":"Ventilador Laptop Teros","productPrice":80,"productStatus":1},
+{"categoryId":7,"productName":"Mousepad Slam Racing","productPrice":30,"productStatus":1},
+{"categoryId":7,"productName":"Microfono Semiprofesional Radioshack","productPrice":150,"productStatus":0},
+{"categoryId":7,"productName":"Adaptador HDMI-VGA","productPrice":20,"productStatus":0}
+]

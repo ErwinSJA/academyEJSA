@@ -1,0 +1,44 @@
+[
+	{
+		"customerName": "Ricardo Martinez",
+		"customerAddress": "Miraflores #1450",
+		"documentType": 1,
+		"documentNumber": "18456325",
+		"customerEmail": "ricardomartinez@gmail.com"
+	},
+	{
+		"customerName": "Lucia Cruzado",
+		"customerAddress": "Pueblo Libre #350",
+		"documentType": 1,
+		"documentNumber": "45712639",
+		"customerEmail": "mireyacruzado@gmail.com"
+	},
+	{
+		"customerName": "Jorge Rodriguez",
+		"customerAddress": "Surco #100",
+		"documentType": 2,
+		"documentNumber": "78194523",
+		"customerEmail": "jorgerodriguez@gmail.com"
+	},
+	{
+		"customerName": "Martin Vergara",
+		"customerAddress": "Miraflores #745",
+		"documentType": 1,
+		"documentNumber": "19747402",
+		"customerEmail": "martinvergara@gmail.com"
+	},
+	{
+		"customerName": "Oliver Mendoza",
+		"customerAddress": "Arequipa #900",
+		"documentType": 2,
+		"documentNumber": "47121263",
+		"customerEmail": "olivermendoza@gmail.com"
+	},
+	{
+		"customerName": "Gilberto Santander",
+		"customerAddress": "Zarumilla #4800",
+		"documentType": 1,
+		"documentNumber": "47121263",
+		"customerEmail": "gilberto@gmail.com"
+	}
+]
