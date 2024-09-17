@@ -1,0 +1,26 @@
+2024-09-17T02:29:24.528-05:00  INFO 3988 --- [academy] [main] com.ejsa.academy.AcademyApplication      : Starting AcademyApplication using Java 17.0.11 with PID 3988 (D:\EclipseWorks\academy\target\classes started by sanch in D:\EclipseWorks\academy)
+2024-09-17T02:29:24.533-05:00  INFO 3988 --- [academy] [main] com.ejsa.academy.AcademyApplication      : No active profile set, falling back to 1 default profile: "default"
+2024-09-17T02:29:25.970-05:00  INFO 3988 --- [academy] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-17T02:29:26.299-05:00  INFO 3988 --- [academy] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 316 ms. Found 6 JPA repository interfaces.
+2024-09-17T02:29:28.065-05:00  INFO 3988 --- [academy] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-17T02:29:28.080-05:00  INFO 3988 --- [academy] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-17T02:29:28.081-05:00  INFO 3988 --- [academy] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-17T02:29:28.151-05:00  INFO 3988 --- [academy] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-17T02:29:28.151-05:00  INFO 3988 --- [academy] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3519 ms
+2024-09-17T02:29:28.347-05:00  INFO 3988 --- [academy] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-17T02:29:28.394-05:00  INFO 3988 --- [academy] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-17T02:29:28.429-05:00  INFO 3988 --- [academy] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-09-17T02:29:28.691-05:00  INFO 3988 --- [academy] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-17T02:29:28.715-05:00  INFO 3988 --- [academy] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-09-17T02:29:28.935-05:00  INFO 3988 --- [academy] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@aca2fc3
+2024-09-17T02:29:28.937-05:00  INFO 3988 --- [academy] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-09-17T02:29:29.035-05:00  WARN 3988 --- [academy] [main] org.hibernate.orm.deprecation            : HHH90000025: OracleDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-09-17T02:29:29.871-05:00  INFO 3988 --- [academy] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-17T02:29:29.873-05:00  INFO 3988 --- [academy] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-17T02:29:30.233-05:00  WARN 3988 --- [academy] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-17T02:29:30.263-05:00  INFO 3988 --- [academy] [main] c.ejsa.academy.configuration.AppConfig   : pathPattern: /**
+2024-09-17T02:29:30.264-05:00  INFO 3988 --- [academy] [main] c.ejsa.academy.configuration.AppConfig   : allowedOrigins: [*]
+2024-09-17T02:29:30.264-05:00  INFO 3988 --- [academy] [main] c.ejsa.academy.configuration.AppConfig   : allowedMethods: [*]
+2024-09-17T02:29:30.264-05:00  INFO 3988 --- [academy] [main] c.ejsa.academy.configuration.AppConfig   : maxAge: 1800
+2024-09-17T02:29:30.539-05:00  INFO 3988 --- [academy] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-17T02:29:30.547-05:00  INFO 3988 --- [academy] [main] com.ejsa.academy.AcademyApplication      : Started AcademyApplication in 6.586 seconds (process running for 7.227)
